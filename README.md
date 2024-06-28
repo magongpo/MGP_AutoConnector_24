@@ -1,6 +1,6 @@
 <div align="center">
 	
-  ## 마공포 코드 24시간 자동접속기
+  ## 💡 마공포 코드 24시간 자동접속기 💡
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjswo1204%2Fmgp_connector_24&count_bg=%239895E3&title_bg=%235750D3&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)                    
  
